@@ -1,0 +1,9 @@
+﻿  main.c
+d:\c programming\bingo\bingo\saveload.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\c programming\bingo\bingo\main.c(198): warning C4013: 'strcpy' undefined; assuming extern returning int
+d:\c programming\bingo\bingo\main.c(217): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Card.c
+d:\c programming\bingo\bingo\card.c(12): warning C4101: 'g': unreferenced local variable
+  Generating Code...
+  Bingo.vcxproj -> D:\C Programming\Bingo\Debug\Bingo.exe
+  Bingo.vcxproj -> D:\C Programming\Bingo\Debug\Bingo.pdb (Full PDB)
